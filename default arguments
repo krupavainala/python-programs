@@ -1,0 +1,8 @@
+def abc (name="guest"):
+    print("good morning",name)
+    abc(raju)
+    abc()
+a=1234
+b=[int(i) for i in str(a)]
+print(max(b))
+    
